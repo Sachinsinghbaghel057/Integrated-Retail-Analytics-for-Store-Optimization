@@ -66,5 +66,10 @@ K-Means identified two store segments containing 35 and
 4. Run cells from top to bottom, including Drive mounting.
 5. Review the generated charts, metrics, and saved outputs.
 
+
+## Project Links
+
+- [Open Notebook in Google Colab](https://colab.research.google.com/drive/1sLJRpTlJrTHuM1aEALE04hKD6J5_KcmL?usp=sharing)
+- [Read Detailed Project Report](https://docs.google.com/document/d/1DpD94rVaBdYI1wBZ_6hVlDMx491OFwn1HPQlISVvooY/edit?usp=sharing)
 ## Author
 Sachin Singh
